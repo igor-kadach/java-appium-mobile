@@ -1,0 +1,5 @@
+Utils\GetDriver.class
+PageObjects\MainPageObject.class
+TestsVPN99\OpenApplicationTest.class
+Utils\Waiter.class
+PageObjects\LoginPageObject.class

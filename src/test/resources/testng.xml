@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite 1">
+    <test name="Test 1">
+        <classes>
+            <class name="TestsVPN99.LoginMenuTest" />
+        </classes>
+    </test>
+    <test name="Test 2">
+        <classes>
+            <class name="TestsVPN99.OpenApplicationTest" />
+        </classes>
+    </test>
+    <test name="Test 3">
+        <classes>
+            <class name="TestsVPN99.BuyForMonthTest" />
+        </classes>
+    </test>
+    <test name="Test 4">
+        <classes>
+            <class name="TestsVPN99.BuyForYearTest" />
+        </classes>
+    </test>
+    <test name="Test 5">
+        <classes>
+            <class name="TestsVPN99.ChangeLanguageTest" />
+        </classes>
+    </test>
+    <test name="Test 6">
+        <classes>
+            <class name="TestsVPN99.ChangePasswordTest" />
+        </classes>
+    </test>
+    <test name="Test 7">
+        <classes>
+            <class name="TestsVPN99.ChangeProtocolTest" />
+        </classes>
+    </test>
+    <test name="Test 8">
+        <classes>
+            <class name="TestsVPN99.ConnectButtonTest" />
+        </classes>
+    </test>
+    <test name="Test 9">
+        <classes>
+            <class name="TestsVPN99.EnterPromoCodeTest" />
+        </classes>
+    </test>
+    <test name="Test 10">
+        <classes>
+            <class name="TestsVPN99.GetProVersionTest" />
+        </classes>
+    </test>
+    <test name="Test 11">
+        <classes>
+            <class name="TestsVPN99.LoginMainPageTest" />
+        </classes>
+    </test>
+    <test name="Test 12">
+        <classes>
+            <class name="TestsVPN99.LogOutFromSettingsTest" />
+        </classes>
+    </test>
+    <test name="Test 13">
+        <classes>
+            <class name="TestsVPN99.OpenReferenceTest" />
+        </classes>
+    </test>
+    <test name="Test 14">
+        <classes>
+            <class name="TestsVPN99.OpenSupportTest" />
+        </classes>
+    </test>
+    <test name="Test 15">
+        <classes>
+            <class name="TestsVPN99.SettingsButtonTest" />
+        </classes>
+    </test>
+    <test name="Test 16">
+        <classes>
+            <class name="TestsVPN99.SignUpTest" />
+        </classes>
+    </test>
+    <test name="Test 17">
+        <classes>
+            <class name="TestsVPN99.SpeedTestTest" />
+        </classes>
+    </test>
+    <test name="Test 18">
+        <classes>
+            <class name="TestsVPN99.ChooseServerTest" />
+        </classes>
+    </test>
+</suite>
